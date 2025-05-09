@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science. Bland, I know, but this straight-to-the-point discipline hides more than meets the eye. Are you waiting for me to tell you what it's hiding? Oh, I don't know either. Yet
 - Join me on this journey as I answer that question and the many more that will pop up along the way!
 - 🌱 I’m currently learning data analytics basics. Not very wow-factor, but I plan to start by using the basics of every data analytics tool to show you and myself how much you can achieve with elementary
-  Knowledge of the tools in data science
+  knowledge of the tools in data science
 - 💞️ I’m looking to collaborate on cross-disciplinary projects. Let's challenge the notion that data analysts are merely for summarising, reach out, and let's show how a microwave and an Excel sheet can give birth
 - to the next Obama!
 - 📫 How to reach me: on LinkedIn. I'm new to this app, so if I can't find an appropriate place to put the link, here's my email: shaiteleki@gmail.com
